@@ -24,15 +24,15 @@ body {
 }
 
 #start {
-  transform: translate(560px, 937px);
+  transform: translate(660px, 937px);
 }
 
 #end {
-  transform: translate(320px, 905px);
+  transform: translate(420px, 905px);
 }
 
 .commands {
-  transform: translate(900px, 100px);
+  transform: translate(1200px, 100px);
   color: #d4d2ab;
 }
 
